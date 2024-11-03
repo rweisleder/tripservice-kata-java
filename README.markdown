@@ -1,3 +1,5 @@
+Forked from https://github.com/sandromancuso/trip-service-kata/tree/master/java/trip-service-kata
+
 Testing legacy code: Hard-wired dependencies
 ============================================
 
